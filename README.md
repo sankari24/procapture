@@ -28,8 +28,8 @@ ProCapture is a multi-functional recording tool developed in Python. It includes
     python main.py
   
 Follow the prompts to choose the desired recording option:
-  **Enter 1 for Screenshot**
-  **Enter 2 for Screen Recorder**
+  **Enter 1**: for Screenshot**
+  **Enter 2 for Screen Recorder
   **Enter 3 for Video Recorder**
   **Enter 4 for Audio Recorder**
   **Enter 5 for Keylogger**
