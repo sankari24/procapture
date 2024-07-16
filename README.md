@@ -23,23 +23,24 @@ ProCapture is a multi-functional recording tool developed in Python. It includes
 3.Install the required packages:
   pip install -r requirements.txt
 
----------------------------------------------------------------------------------------------USAGE---------------------------------------------------------------------------------
+## USAGE
   Run the main script:
     python main.py
   
 Follow the prompts to choose the desired recording option:
-  Enter 1 for Screenshot
-  Enter 2 for Screen Recorder
-  Enter 3 for Video Recorder
-  Enter 4 for Audio Recorder
-  Enter 5 for Keylogger
-  Requirements
+  **Enter 1 for Screenshot**
+  **Enter 2 for Screen Recorder**
+  **Enter 3 for Video Recorder**
+  **Enter 4 for Audio Recorder**
+  **Enter 5 for Keylogger**
+  
+  ## Requirements
   See requirements.txt for the list of dependencies.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgements
+## Acknowledgements
 Pillow, 
  OpenCV,
  soundcard,
