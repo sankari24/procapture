@@ -40,9 +40,9 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgements
-Pillow
-OpenCV
-soundcard
-soundfile
-pynput
+Pillow, 
+ OpenCV,
+ soundcard,
+ soundfile,
+ pynput,
 Feel free to reach out if you have any questions or suggestions!
