@@ -1,0 +1,9 @@
+# This file lists all the dependencies required for your project. To install them, users can run:
+# pip install -r requirements.txt
+pillow
+numpy
+opencv-python-headless
+soundcard
+soundfile
+pynput
+pywin32
