@@ -13,25 +13,20 @@ ProCapture is a multi-functional recording tool developed in Python. It includes
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/sankari24/procapture.git
    cd procapture
    
 2.Create a virtual environment and activate it:
-'''bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+  python -m venv venv
+  source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 3.Install the required packages:
-'''bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 ---------------------------------------------------------------------------------USAGE----------------------------------------------------------------
 Run the main script:
-
-''' bash
-
-python main.py
+  python main.py
+  
 Follow the prompts to choose the desired recording option:
 
 Enter 1 for Screenshot
